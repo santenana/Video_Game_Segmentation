@@ -1,0 +1,9 @@
+*.avi
+*.mp4
+*.png
+*.jpg
+/Santiago_Garcia_Lab3
+/dataset
+/runs
+/__pycache__
+dep.txt
